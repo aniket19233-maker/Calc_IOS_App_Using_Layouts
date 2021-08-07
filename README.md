@@ -3,4 +3,4 @@ App made while learning stacks layouts and assignments and views in iOS and how 
 
 App Images 
 
-![Potrait Version]()
+![Potrait Version](https://github.com/aniket19233-maker/Calc_IOS_App_Using_Layouts/blob/main/Calc1.png)
